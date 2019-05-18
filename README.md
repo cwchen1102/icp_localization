@@ -11,10 +11,7 @@ Requirement
 2. Publish tf to visualize scan matching process
 
 Steps
-1.Load map
-2.Subscribe point cloud
-3.Implement ICP using PCL
-4.Publish tf
+1.Load map 2.Subscribe point cloud 3.Implement ICP using PCL 4.Publish tf
 
 tf
 ROS provides a package tf to maintain the relationship between different coordinate frame. After you successfully publish the tf, it would be able to see the current scan and map in the same frame.
