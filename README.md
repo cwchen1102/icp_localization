@@ -17,8 +17,7 @@ Steps
 4.Publish tf
 
 tf
-•	ROS provides a package tf to maintain the relationship between different coordinate frame
-•	After you successfully publish the tf, it would be able to see the current scan and map in the same frame
+ROS provides a package tf to maintain the relationship between different coordinate frame. After you successfully publish the tf, it would be able to see the current scan and map in the same frame.
 For more implementation details, see this
 http://wiki.ros.org/tf/Tutorials/Writing%20a%20tf%20broadcaster%20(C%2B%2B)
 
